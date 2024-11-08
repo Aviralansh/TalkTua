@@ -2,11 +2,10 @@
 
 ## Overview
 
-TalkTua is a medical AI-powered chatbot designed to assist users with various health-related inquiries. This project leverages state-of-the-art machine learning models, providing personalized and accurate responses to users. It integrates seamlessly with Vultr's serverless infrastructure for efficient inference, ensuring fast and reliable responses.
+TalkTua is a AI-powered chatbot designed to assist users with various inquiries. It integrates seamlessly with Vultr's serverless infrastructure for efficient inference, ensuring fast and reliable responses.
 
 ## Features
 
-- **Medical AI Assistance**: Provides intelligent responses to health-related queries.
 - **Serverless Inference**: Utilizes Vultr’s serverless solution for handling AI inference tasks, offering scalable and cost-effective processing.
 - **Seamless Integration**: Can be embedded into websites via an iframe, making it easy to integrate into different platforms.
 
