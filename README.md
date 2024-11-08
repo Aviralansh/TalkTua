@@ -1,4 +1,4 @@
-# TalkTua Chatbot
+# TalkTua
 
 ## Overview
 
